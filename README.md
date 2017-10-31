@@ -1,2 +1,1 @@
-# DiskLruCacheDemo
-一款基于DiskLruCache技术的图片磁盘缓存示例
+#DiskLruCacheDemo
